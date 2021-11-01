@@ -17,20 +17,6 @@ Place = ['a lonely palace', 'a dense forest', 'the mountains', 'the underworld b
 print(random.choice(Time) + ' ' + random.choice(Subject) + ' lived in ' + random.choice(Place))
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
